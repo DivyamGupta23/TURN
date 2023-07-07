@@ -1,9 +1,5 @@
 # TURN
-Assignment work.
 
-Inspiration:
-
-When I got the assignment, I started looking for ideas everywhere. From watching YouTube videos to browsing the Google Play Store. I eventually found a game called "zig-zag" on the playstore. I couldn't stop playing the game despite the fact that it had simple controls and gameplay. I decided to remake the core aspects of the game with the time I had left and with my knowledge, I was able to create "TURN," a game that provides a similar experience. I gained knowledge and had fun while working on this project. "TURN" will be an excellent game for any casual gamer. 
 
 Playable WebGL:
 https://divyamgupta23.itch.io/turn
